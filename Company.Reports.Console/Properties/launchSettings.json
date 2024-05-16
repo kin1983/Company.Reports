@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Company.Reports.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "test_data_onemonth.csv"
+    }
+  }
+}
